@@ -1,4 +1,3 @@
 def roll
-  rand (1..6)
-return rand
+  rand(1..6)
 end
